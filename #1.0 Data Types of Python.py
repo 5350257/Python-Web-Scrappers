@@ -14,4 +14,4 @@ print(type(a_int))
 print(type(b_long))
 
 h_none = None
-# none is none only had python
+# none is none only had python.
